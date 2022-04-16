@@ -402,13 +402,6 @@ for each in liste:
 # %%   While Loop
 
 
-i=0
-while(i<4):
-    print(i)
-    i=i+1
-
-
-
 liste=[1,4,5,6,8,3,3,4,67]
 
 sinir=len(liste)  
@@ -416,5 +409,34 @@ each=0
 count=0
 while(each<sinir):
     count=count+liste[each]
-    print(count)
+    each=each+1
+count    
+
+
+i=0
+while(i<4):
+    print(i)
+    i=i+1
     
+# %%   QUIZ 3
+
+
+# listenin içindeki en küçük sayıyı bul for veya while ile
+
+min(list)
+
+liste=[1,2,3,4,5,6,4,23,67,21,-500,23,451,67]
+
+smaller=1000000
+
+for each in liste:
+    if(each<smaller):
+        smaller=each
+    else:
+        continue
+print(smaller)
+        
+
+
+
+
