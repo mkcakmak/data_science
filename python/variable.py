@@ -7,11 +7,6 @@ This is a temporary script file.
 # %%   Variable 
 
 
-
-
-
-
-
 #variable
 #function
 #object
@@ -29,13 +24,7 @@ Var7=10 # standart convention of python'a göre buyuk harfle baslamak uygun degi
 
 
 
-
-
 # %%   String
-
-
-
-
 
 
 
@@ -56,13 +45,7 @@ var6=var4+var5
 uzunluk=len(var6)
 
 
-
-
 # %%   Numbers
-
-
-
-
 
 
 #int double
@@ -71,10 +54,6 @@ ineger_deneme= -50
 # double= float= ondalikli sayı
 
 float_deneme= -30.7
-
-
-
-
 
 
 # %%   Built-in functions
@@ -87,11 +66,7 @@ float1=10.6
 str2="1005"
 
 
-
-
-
 # %%   User Defined Functions
-
 
 
 var1=20
